@@ -25,4 +25,5 @@ We provide the result file, which can be downloaded by the following link.
 
 |         Method          | OWTA(Unknown) |  OWTA(Known)  | Checkpoint |
 |-------------------------|---------|---------|------------|
+|         [OWTB](https://github.com/YangLiu14/Open-World-Tracking)         |  39.2   |  60.2   |  |
 |         SimOWT          |  50.4   |  62.9   |  [Checkpoint](https://drive.google.com/file/d/1x7Xh_EKVkt7aAz3ioWpzUN-FxryNWKQk/view?usp=drive_link)|
