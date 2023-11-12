@@ -9,7 +9,7 @@ First, generate a json file containing the tracking results for each video frame
 ```
 CUDA_VISIBLE_DEVICES=0 python projects/IDOL/train_net.py --config-file projects/IDOL/configs/coco_pretrain/r50_eval.yaml --num-gpus 1 --eval-only
 ```
-Second, merge json to generate test.json and put it under {TrackEval/data/pse/idol/score}.
+Second, merge json to generate test.json and put it under `TrackEval/data/pse/idol/score`.
 ```
 python truncode.py
 ```
