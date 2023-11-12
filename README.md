@@ -9,7 +9,7 @@ This repository is the project page for the paper [A Simple Baseline for Open-Wo
 - SimOWT is accepted to ACMMM 2023.
 
 ## Overview
-we propose SimOWT, a simple baseline for Open-World Tracking(OWT). Our method demonstrates **state-of-the-art** result on the TAO-OW benchmark.
+We propose SimOWT, a simple baseline for Open-World Tracking(OWT). Our method demonstrates **state-of-the-art** result on the TAO-OW benchmark.
 
 ## Demo
 https://github-production-user-asset-6210df.s3.amazonaws.com/103307584/282296864-14858de3-a3e5-483e-bb3b-7d3d72f5c655.mp4
