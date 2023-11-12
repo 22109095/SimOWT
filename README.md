@@ -3,7 +3,7 @@
 
 ![SimOWT](assets/Overview.png)
 
-This repository is the project page for the paper [A Simple Baseline for Open-World Tracking via Self-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611695)
+This repository is the project page for the paper [A Simple Baseline for Open-World Tracking via Self-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611695).
 
 ## Highlight
 - SimOWT is accepted to ACMMM 2023.
