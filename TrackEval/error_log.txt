@@ -1,0 +1,69 @@
+TAO_OW
+tao
+Traceback (most recent call last):
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 87, in evaluate
+    metric_names)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 191, in eval_sequence
+    raw_data = dataset.get_raw_seq_data(tracker, seq)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/_base_dataset.py", line 93, in get_raw_seq_data
+    raw_tracker_data = self._load_raw_file(tracker, seq, is_gt=False)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 198, in _load_raw_file
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 198, in <listcomp>
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+KeyError: 'score'
+
+
+
+
+
+TAO_OW
+online-ghost
+Traceback (most recent call last):
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 87, in evaluate
+    metric_names)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 191, in eval_sequence
+    raw_data = dataset.get_raw_seq_data(tracker, seq)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/_base_dataset.py", line 93, in get_raw_seq_data
+    raw_tracker_data = self._load_raw_file(tracker, seq, is_gt=False)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 197, in _load_raw_file
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 197, in <listcomp>
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+KeyError: 'score'
+
+
+
+
+
+TAO_OW
+online-ghost
+Traceback (most recent call last):
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 87, in evaluate
+    metric_names)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/eval.py", line 191, in eval_sequence
+    raw_data = dataset.get_raw_seq_data(tracker, seq)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/_base_dataset.py", line 93, in get_raw_seq_data
+    raw_tracker_data = self._load_raw_file(tracker, seq, is_gt=False)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 197, in _load_raw_file
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+  File "/home/dhw/LTL_workspace/TrackEval/trackeval/datasets/tao_ow.py", line 197, in <listcomp>
+    raw_data['tracker_confidences'][t] = np.atleast_1d([ann['score'] for ann in annotations]).astype(float)
+KeyError: 'score'
+
+
+
+
+
