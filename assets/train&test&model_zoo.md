@@ -15,7 +15,7 @@ python truncode.py
 ```
 Third, verify the results of the json file on unknown classes and known classes respectively.
 ```
-python scripts/run_tao_ow.py --USE_PARALLEL False --METRICS HOTA --TRACKERS_TO_EVAL online-ghost
+python scripts/run_tao_ow.py --USE_PARALLEL False --METRICS HOTA --TRACKERS_TO_EVAL idol --SUBSET unknown
 python scripts/run_tao_ow.py --USE_PARALLEL False --METRICS HOTA --TRACKERS_TO_EVAL idol --SUBSET known
 ```
 
