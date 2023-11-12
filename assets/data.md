@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1h2rohSDvJv_XvUdTaux5rN9jx86rzR9g/view?usp=shari
 ```
 
 ### TrackEval validation.json
-The validation file under {TrackEval/data/pse/idol/score} can be downloaded by the following link.
+The validation file under `TrackEval/data/pse/idol/score` can be downloaded by the following link.
 ```
 https://drive.google.com/file/d/1aNW9X-CUMQqVZhHKKz55VLXQVEY0ZEQb/view?usp=sharing
 ```
