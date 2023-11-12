@@ -22,11 +22,11 @@ https://drive.google.com/file/d/10vECiZFWAqVP8plwpZ9t8MczcFHCLmlN/view?usp=drive
 ```
 
 ### COCO
-Please download [COCO](https://cocodataset.org/#home) from the offical website. We expect that the data is organized as below.
+Please download [coco](https://cocodataset.org/#home) from the offical website. We expect that the data is organized as below.
 ```
 ${SimOWT_ROOT}
     -- datasets
-        -- COCO
+        -- coco
             -- annotations
             -- train2017
             -- val2017
