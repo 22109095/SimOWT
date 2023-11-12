@@ -1,6 +1,6 @@
 ## Train
 ```
-CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python projects/IDOL/train_net.py --config-file projects/IDOL/configs/r50_train.yaml --num-gpus 8```
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python projects/IDOL/train_net.py --config-file projects/IDOL/configs/r50_train.yaml --num-gpus 8
 ```
 
 ## Test
