@@ -12,8 +12,6 @@ This repository is the project page for the paper [A Simple Baseline for Open-Wo
 we propose SimOWT, a simple baseline for Open-World Tracking(OWT). Our method demonstrates **state-of-the-art** result on the TAO-OW benchmark.
 
 ## Demo
-Unicorn conquers four tracking tasks (SOT, MOT, VOS, MOTS) using **the same network** with **the same parameters**.
-
 https://github-production-user-asset-6210df.s3.amazonaws.com/103307584/282296864-14858de3-a3e5-483e-bb3b-7d3d72f5c655.mp4
 
 ## Results
