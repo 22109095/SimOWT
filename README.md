@@ -35,4 +35,4 @@ If you find SimOWT useful in your research, please consider citing:
 ```
 
 ## Acknowledgments
-- Thanks [IDOL](https://github.com/wjf5203/VNext) for providing strong baseline for Multi-Object Tracking.
+- Thanks [IDOL](https://github.com/wjf5203/VNext) for providing the strong baseline for Multi-Object Tracking.
