@@ -140,7 +140,7 @@ def get_model_zoo_configs() -> List[str]:
 # to detectron2's core functionalities, we install them under detectron2.projects
 PROJECTS = {
     "detectron2.projects.idol": "projects/IDOL",
-    "detectron2.projects.seqformer": "projects/SeqFormer",
+    # "detectron2.projects.seqformer": "projects/SeqFormer",
 
 }
 
